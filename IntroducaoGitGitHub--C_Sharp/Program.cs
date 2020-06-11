@@ -18,11 +18,15 @@ namespace IntroducaoGitGitHub__C_Sharp {
             // git config --global user.email ""
             // git status
             // git add .
-            // git commit -m "" (caso esqueça de colocar um comentário, para sair do editor VIM, tecle ESC e depois-> :q!)
+            // git commit -m ""   --caso esqueça de colocar um comentário, para sair do editor VIM, tecle ESC e depois-> :q!
             // git log
             // git log --oneline
-            // git clean -df
-            // git checkout -- .
+
+            // git clean -df         --descartar as últimas alterações (quando se está em vermelho ainda, então
+            // git checkout -- .       esses dois comandos excluem as últimas alterações no código)
+
+            // git reset --soft HEAD~1     --Remove o último commit porém mantém as alterações lá no código
+            // git reset --hard HEAD~1     --CUIDADO! Remove o último commit E SUAS ALTERAÇÕES no código
 
 
 
