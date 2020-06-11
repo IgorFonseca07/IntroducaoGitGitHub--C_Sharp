@@ -37,7 +37,9 @@ namespace IntroducaoGitGitHub__C_Sharp {
             // git push -u origin master       --Transferir repositório local para o remoto
             // git push                        --Caso já tenha usado o último comando com o -u, basta dar esse comando agora para o push do master
             
+            // git clone URLdoRepositórioRemoto      --Clonar Repositório Remoto para Local
 
+            // git pull origin master        --Atualizar seu repositório Local de acordo com o Remoto
 
         }
     }
