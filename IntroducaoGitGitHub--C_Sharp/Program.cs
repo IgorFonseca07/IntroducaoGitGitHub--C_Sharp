@@ -21,6 +21,9 @@ namespace IntroducaoGitGitHub__C_Sharp {
             // git commit -m "" (caso esqueça de colocar um comentário, para sair do editor VIM, tecle ESC e depois-> :q!)
             // git log
             // git log --oneline
+            // git clean -df
+            // git checkout -- .
+
 
 
 
