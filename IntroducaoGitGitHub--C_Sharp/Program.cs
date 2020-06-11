@@ -28,7 +28,9 @@ namespace IntroducaoGitGitHub__C_Sharp {
             // git reset --soft HEAD~1     --Remove o último commit porém mantém as alterações lá no código
             // git reset --hard HEAD~1     --CUIDADO! Remove o último commit E SUAS ALTERAÇÕES no código
 
-
+            // git checkout CódigoDoCommit      --Volta ao commit desejado para poder analisa-lo, executá-lo, enfim...
+            // git checkout NomeDoBranch        --Volta ao branch desejado para continuar com o projeto, pode ser 'master' no caso, se quiser voltar para o master
+            
 
 
         }
