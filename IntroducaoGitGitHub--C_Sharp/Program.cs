@@ -40,6 +40,8 @@ namespace IntroducaoGitGitHub__C_Sharp {
             // git clone URLdoRepositórioRemoto      --Clonar Repositório Remoto para Local
 
             // git pull origin master        --Atualizar seu repositório Local de acordo com o Remoto
+            
+            // Linha adicionada para testar o pull
 
         }
     }
