@@ -31,7 +31,8 @@ namespace IntroducaoGitGitHub__C_Sharp {
             // git checkout CódigoDoCommit      --Volta ao commit desejado para poder analisa-lo, executá-lo, enfim...
             // git checkout NomeDoBranch        --Volta ao branch desejado para continuar com o projeto, pode ser 'master' no caso, se quiser voltar para o master
             
-
+            // git remote add origin URLdoRepositórioRemoto        --Depois de criado um repositório vazio no GitHub, associar Local a ele.
+            // git remote set-url origin URLdoRepositórioRemoto    --Associar o Local a um outro repositório remoto
 
         }
     }
