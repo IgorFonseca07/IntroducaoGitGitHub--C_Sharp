@@ -34,6 +34,11 @@ namespace IntroducaoGitGitHub__C_Sharp {
             // git remote add origin URLdoRepositórioRemoto        --Depois de criado um repositório vazio no GitHub, associar Local a ele.
             // git remote set-url origin URLdoRepositórioRemoto    --Associar o Local a um outro repositório remoto
 
+            // git push -u origin master       --Transferir repositório local para o remoto
+            // git push                        --Caso já tenha usado o último comando com o -u, basta dar esse comando agora para o push do master
+            
+
+
         }
     }
 }
